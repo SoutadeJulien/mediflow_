@@ -1,0 +1,19 @@
+#instituteRoot {
+    min-height: 100vh !important;
+    background-image: url('/img/institutes_back.jpg') !important;
+    background-size: cover !important;
+}
+
+.icon {
+  width: 1.6rem;
+  height: auto;
+  color: rgb(56, 56, 56);
+  cursor: pointer;
+  transform: scale(100%);
+}
+
+.icon:hover {
+  color: rgb(0, 119, 255);
+  transition: 0.3s;
+  transform: scale(110%);
+}

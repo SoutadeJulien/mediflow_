@@ -1,0 +1,40 @@
+{
+  "name": "mediflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julien-S-AFEC/mediFlow.git"
+  },
+  "author": "Soutadé Julien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julien-S-AFEC/mediFlow/issues"
+  },
+  "homepage": "https://github.com/julien-S-AFEC/mediFlow#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.0.1",
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.1",
+    "node-mailer": "^0.1.1",
+    "nodemon": "^3.1.10",
+    "uuid": "^11.1.0"
+  }
+}
