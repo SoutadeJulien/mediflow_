@@ -2,8 +2,6 @@
 
 _Transforming Media Workflows for Limitless Possibilities_
 
-![last-commit](https://img.shields.io/github/last-commit/julien-S-AFEC/mediFlow?style=flat&logo=git&logoColor=white&color=0080ff) ![repo-top-language](https://img.shields.io/github/languages/top/julien-S-AFEC/mediFlow?style=flat&color=0080ff) ![repo-language-count](https://img.shields.io/github/languages/count/julien-S-AFEC/mediFlow?style=flat&color=0080ff)
-
 _Built with the tools and technologies:_
 
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white) ![Fig](https://img.shields.io/badge/Fig-000000.svg?style=flat&logo=Fig&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white) ![.ENV](https://img.shields.io/badge/.ENV-ECD53F.svg?style=flat&logo=dotenv&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)  
